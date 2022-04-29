@@ -14,7 +14,7 @@
 | CPU | Intel Core i7 6700MQ |
 | 内存 | 板载DDR4 4G，金士顿 2133MHz 8G*1 |
 | 硬盘 | 三星 860EVO，Sata 500GB |
-| 显卡 | Intel HD Graphics 4600 |
+| 显卡 | Intel UHD Graphics 530 |
 | 屏幕 | 1080P屏幕 |
 | 无线网卡 | 博通 BCM94352HMB |
 
