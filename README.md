@@ -11,7 +11,7 @@
 |   硬件    |   型号  |
 | -------- | :----: |
 | 主机 | 华硕 FH5900VQ |
-| CPU | Intel Core i7 6700MQ |
+| CPU | Intel Core i7 6700HQ |
 | 内存 | 板载DDR4 4G，金士顿 2133MHz 8G*1 |
 | 硬盘 | 三星 860EVO，Sata 500GB |
 | 显卡 | Intel UHD Graphics 530 |
